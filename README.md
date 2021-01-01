@@ -1,3 +1,4 @@
-2019.9.13
-Maybe I can do it, so I do.
-So don't afraid. Because I believe I.
+# 26
+## 佔坑
+這個項目的目的是解決一些需要思考的一系列問題的提議和部分解決方案
+項目的伊始，恰好是在2021年的1月1日
